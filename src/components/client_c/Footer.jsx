@@ -97,10 +97,10 @@ const Footer = () => {
 					</div>
 				</div>
 
-				<div className="mx-44 text-center mt-10 text-xs flex items-center justify-center gap-5">
+				<div className='mx-44 text-center mt-10 text-xs flex items-center justify-center gap-5'>
 					<p>© Copyright 2024 GotPrint. All rights reserved</p>
-          <Link className="border-l pl-5">Privacy Policy</Link>
-          <Link className="border-l pl-5">Terms of Use</Link>
+					<Link className='border-l pl-5'>Privacy Policy</Link>
+					<Link className='border-l pl-5'>Terms of Use</Link>
 				</div>
 			</div>
 		</footer>

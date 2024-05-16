@@ -9,7 +9,12 @@ export default {
 			xl: "1280px",
 			"2xl": "1280px",
 		},
-		extend: {},
+		extend: {
+			colors: {
+				primary: "#8cc63f",
+				secondary: "#3e84b6",
+			},
+		},
 	},
 	plugins: [],
 };
